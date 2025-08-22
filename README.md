@@ -34,9 +34,6 @@ Aqui estão alguns projetos que destacam meu estilo prático e criativo:
 
 > Quer ver mais? Posso adicionar links para portfólio, demo ao vivo e descrição técnica de cada projeto.
 
-## Vamos Criar Algo Incrível! 💫
-
-Se estiver afim de colaborar, trocar ideias ou começar um projeto — manda mensagem! Sou aberto a parcerias e adoro trabalhar em soluções que misturam front-end limpo e back-end bem arquitetado.
 
 ## GitHub Stats
 
