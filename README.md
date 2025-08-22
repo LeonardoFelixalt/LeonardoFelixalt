@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou LeonardoFelixalt — Desenvolvedor
+# 🚀 Eu sou Leonardo Felix — Desenvolvedor
 
 ## Sobre mim
 
