@@ -32,9 +32,6 @@ Aqui estão alguns projetos que destacam meu estilo prático e criativo:
 
 * **Black Noir** — um e‑commerce focado em moda negra (HTML, CSS, JS). Veja em: [https://github.com/riberokk/ProjetoWebSite-BlackNoir](https://github.com/riberokk/ProjetoWebSite-BlackNoir)
 
-> Quer ver mais? Posso adicionar links para portfólio, demo ao vivo e descrição técnica de cada projeto.
-
-
 ## GitHub Stats
 
 <div>
