@@ -2,15 +2,17 @@
 
 ## Sobre mim
 
-I’m a developer in training, passionate about technology and continuous learning. I’m always looking to improve my programming skills and build practical projects, exploring new tools and best practices.
+I’m a developer in training, passionate about technology and continuous learning. I’m always looking to improve my programming skills and build practical projects, exploring new tools and best practices.  
 I have skills in the following areas:
 
-Web Development
-Databases
-Version Control (Git/GitHub)
-Problem Solving and Programming Logic
+- Web Development  
+- Databases  
+- Version Control (Git/GitHub)  
+- Problem Solving and Programming Logic  
 
-## Habilidades Tecnológicas
+---
+
+## 🧠 Habilidades Tecnológicas
 
 <div align="center">  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
@@ -26,15 +28,28 @@ Problem Solving and Programming Logic
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="60" /></a>  
 </div>
 
-## Projetos Criativos
+---
+
+## 💡 Projetos Criativos
 
 Aqui estão alguns projetos que destacam meu estilo prático e criativo:
 
-* **Black Noir** — um e‑commerce focado em moda negra (HTML, CSS, JS). Veja em: [https://github.com/riberokk/ProjetoWebSite-BlackNoir](https://github.com/riberokk/ProjetoWebSite-BlackNoir)
+* **Black Noir** — um e-commerce focado em moda negra (HTML, CSS, JS).  
+  👉 [ProjetoWebSite-BlackNoir](https://github.com/riberokk/ProjetoWebSite-BlackNoir)
 
-## GitHub Stats
+---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoFelixalt&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFelixalt&hide_border=true&layout=compact" alt="Top Languages" width="35%" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFelixalt&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFelixalt&hide_border=true&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoFelixalt&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
