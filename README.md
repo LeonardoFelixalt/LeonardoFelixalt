@@ -45,11 +45,3 @@ Aqui estão alguns projetos que destacam meu estilo prático e criativo:
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFelixalt&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFelixalt&hide_border=true&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeonardoFelixalt&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</div>
